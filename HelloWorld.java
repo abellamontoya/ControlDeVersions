@@ -10,7 +10,7 @@ public class HelloWorld {
      * @return La salutació completa.
      */
     public String saluda(String nom) {
-        return "Hola, " + nom + "!";
+        return "Hola, " + nom + "!!";
     }
 
 }
